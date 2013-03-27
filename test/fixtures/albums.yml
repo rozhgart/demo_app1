@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Title: MyString
+  Year: 1
+  NoOfCopies: 1
+  Artist_id: 1
+
+two:
+  Title: MyString
+  Year: 1
+  NoOfCopies: 1
+  Artist_id: 1
